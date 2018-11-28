@@ -84,6 +84,7 @@ celerybeat-schedule
 *.sage.py
 
 errors.txt
+*.db
 
 # Environments
 keys.env

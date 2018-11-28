@@ -1,3 +1,10 @@
+'''
+Description - Data grapher
+@author - John Sentz
+@date - 27-Nov-2018
+@time - 16:28
+'''
+
 import dash
 from dash.dependencies import Output, Event, Input
 import dash_core_components as dcc

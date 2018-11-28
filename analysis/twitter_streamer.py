@@ -1,4 +1,10 @@
-from distutils.command.config import config
+'''
+Description - Streams raw tweets
+@author - John Sentz
+@date - 27-Nov-2018
+@time - 16:28
+'''
+
 from tweepy import Stream
 from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
